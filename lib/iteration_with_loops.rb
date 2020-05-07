@@ -16,4 +16,5 @@ while row_index < src.count do
   outer_results << smallest_element
   row_index += 1 
 end 
+return outer_results
 end
